@@ -1,13 +1,16 @@
 // Declaring a number
-
 var num:number=10;
 
 // Type is String
-var str:string=10;
+var str:string="String Sample";
 
 // Type is array
-var str:string=10;
+var myArr: number[] = [1, 2, 3];
+
+// error  array type is enum
+//var myArr: number[] = [1, 2, 3, "de"];
 
 
-// Type is enum
-var str:string=10;
+// Type is arraY  coorect
+var myArr2: any[] = [1, 2, 3, "de"];
+alert(myArr2);
