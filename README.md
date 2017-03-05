@@ -5,7 +5,7 @@ Online Editor:
 http://www.typescriptlang.org/play/
 
 Videos Ref:
-https://www.youtube.com/watch?v=lusXAJ3tC1k&list=PLYxzS__5yYQkX-95LHG5EDxPj3tVvVmRd&index=11#t=40.61428
+https://www.youtube.com/watch?v=4llUutJR4n8&list=PLYxzS__5yYQkX-95LHG5EDxPj3tVvVmRd&index=19
 
 #Projects:
 
